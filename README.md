@@ -5,7 +5,7 @@ Hi there! I'm **Dinesh Bhardwaj** 👋<br>
 🚀 Passionate about **Open Source** and actively contributing to **GSSOC**.<br>
 🎯 Aiming to solve problems with **AI/ML** and create impactful projects.<br>
 💬 Ask me about **DSA**, **Web Development**, or **Python**.<br>
-📫 Reach me at [dinesh.bhardwaj@example.com](mailto:dinesh.bhardwaj@example.com).<br>
+📫 Reach me at [dinesh07bhardwaj@gmail.com](mailto:dinesh07bhardwaj@gmail.com).<br>
 ⚡ Fun fact: I enjoy cracking logical puzzles and exploring hackathons.
 
 ---
