@@ -69,6 +69,8 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 <br>
 <div align="center">
 
+[![An image of @dinesh2047's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dinesh2047)](https://holopin.io/@dinesh2047)
+
 #### 🔍 Profile views :
 ![Visitor Count](https://profile-counter.glitch.me/{dinesh-2047}/count.svg)
 
