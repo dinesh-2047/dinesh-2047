@@ -37,17 +37,17 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 <table align="center">
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=cpp&theme=dark"></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark"></td>
 </tr>
 
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js&theme=dark" ></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" ></td>
 </tr>
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode&theme=dark"></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,docker&theme=dark"></td>
 </tr>
 
 </table>
