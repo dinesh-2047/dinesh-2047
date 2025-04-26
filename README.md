@@ -47,7 +47,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,docker&theme=dark"></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,docker,mysql&theme=dark"></td>
 </tr>
 
 </table>
