@@ -42,12 +42,12 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 
 <tr>
 	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" ></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express&theme=dark" ></td>
 </tr>
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,docker,mysql&theme=dark"></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,docker,mysql,mongodb&theme=dark"></td>
 </tr>
 
 </table>
